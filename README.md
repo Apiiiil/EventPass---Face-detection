@@ -65,6 +65,14 @@ The system allows event organizers to manage attendees efficiently while providi
 
 ---
 
+### Planned Features
+- Enhanced facial recognition accuracy
+- Multi-event management support
+- Attendance analytics dashboard
+- Mobile-friendly user interface
+
+---
+
 ## Installation
 
 ### Clone the Repository
